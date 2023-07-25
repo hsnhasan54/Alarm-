@@ -1,0 +1,16 @@
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\bin\Debug\Alarm.exe.config
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\bin\Debug\Alarm.exe
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\bin\Debug\Alarm.pdb
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\bin\Debug\Interop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Interop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.csproj.ResolveComReference.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.Form1.resources
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.exe
+C:\Users\hasan\source\repos\Mobil Proglama\Alarm\Alarm\obj\Debug\Alarm.pdb
